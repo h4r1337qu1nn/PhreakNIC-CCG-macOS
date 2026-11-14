@@ -4,7 +4,9 @@ This is a macOS release file for the PhreakNIC Collectible Card Game, originally
 
 ## macOS port
 
-This release was exported to macOS using Godot, which was used to develop PhreakNIC-CCG. It does have the ad-hoc signature provided by Godot, but I would like for other Macintosh users to test if they can run the program without much of an issue. If needed, you should probably change your app security settings in your macOS system settings to allow it to run.
+This release was exported to macOS using Godot, which was used to develop PhreakNIC-CCG. It does have the ad-hoc signature provided by Godot.
+
+In order to run the app, you must open your System Settings, go to Privacy & Security, scroll to Security, and click Open right next to the PhreakNIC-CCG app. You will need to authenticate using your system password or Touch ID in order to authorise the app to run on your system. Make sure that your settings allow for you to run non-App Store applications.
 
 ## Testing
 
