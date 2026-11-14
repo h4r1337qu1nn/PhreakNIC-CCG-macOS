@@ -1,4 +1,4 @@
-# PhreakNIC-CCG-macOS
+# PhreakNIC-CCG port for macOS
 
 This is a macOS release file for the PhreakNIC Collectible Card Game, originally developed by Nirtom84, with contributions from mogorman. The game was also programmed with assistance from Claude AI and Codex. The original FOTTR trading card game was designed by 5ud0, bitwize and crook3dfingers.
 
